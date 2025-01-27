@@ -9,11 +9,13 @@ of her journeys has an influence on the
 next journey. And her every journey is
 connected with a close relationship with
 each other, like a ripple in an ocean.
+
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/e97ff033-0371-42ce-8ccc-807d92cf5132" />
 
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/5a24bc2b-ebc4-4c2f-be2d-3a6537b9b06a" />
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/8ce6934f-a00a-4cb5-906f-a34c260eb7ac" />
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/8223da3e-ad1f-4413-9840-911a6882d4cf" />
+
 And the users can control the size of
 waves with mouse moves. Despite the
 differences in wave sizes, all waves
