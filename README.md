@@ -1,6 +1,5 @@
 # the-Root
 
-
 This generative coding project is a map
 showing Kim’s **root journey which is
 always moving, growing, and radiating.**
@@ -9,6 +8,8 @@ of her journeys has an influence on the
 next journey. And her every journey is
 connected with a close relationship with
 each other, like a ripple in an ocean.
+
+
 
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/e97ff033-0371-42ce-8ccc-807d92cf5132" />
 
