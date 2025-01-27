@@ -9,8 +9,6 @@ next journey. And her every journey is
 connected with a close relationship with
 each other, like a ripple in an ocean.
 
-
-
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/e97ff033-0371-42ce-8ccc-807d92cf5132" />
 
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/5a24bc2b-ebc4-4c2f-be2d-3a6537b9b06a" />
